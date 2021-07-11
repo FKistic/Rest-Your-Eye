@@ -7,9 +7,10 @@ Inspired and idea by:
 
 @mr-islam 's  [Eye-care Daemon](https://github.com/mr-islam/eyecare-daemon).
 
-The reason for creating this program is:
+Requirements:-
 
-To remind you to take break in equal intervals and save your eyes from strain
+-Playsound(if you select the opption "Play sound at start")
+-plyer(If you have selected the "Simple Notification" Opption
 
 Pros of this program:
 
