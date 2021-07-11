@@ -10,7 +10,8 @@ Inspired and idea by:
 Requirements:-
 
 -Playsound(if you select the opption "Play sound at start")
--plyer(If you have selected the "Simple Notification" Opption
+
+-plyer(If you have selected the "Simple Notification" Opption)
 
 Pros of this program:
 
