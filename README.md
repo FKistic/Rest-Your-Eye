@@ -1,4 +1,4 @@
-# Rest-Your-Eye-
+# Rest-Your-Eye
 Save your eyes from the impact of BlueLightz
 
 Inspired and idea by:
