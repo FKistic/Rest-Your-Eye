@@ -1,6 +1,8 @@
 # Rest-Your-Eye
 Save your eyes from the impact of BlueLightz
 
+Updates:
+Now you wont be able to swich tabs or desktops in hard mode!
 Inspired and idea by:
 
 @tom-james-watson 's [BreakTimer](https://breaktimer.app/).
@@ -12,6 +14,10 @@ Requirements:-
 -Playsound(if you select the opption "Play sound at start")
 
 -plyer(If you have selected the "Simple Notification" Opption)
+
+-pyautogui
+
+-pywinauto
 
 Pros of this program:
 
